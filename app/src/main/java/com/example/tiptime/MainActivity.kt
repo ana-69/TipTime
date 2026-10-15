@@ -1,6 +1,6 @@
 package com.example.tiptime
 
-//para este proyecto me he ayudado de varios tutoriales de Youtube, entre otros:250
+//para este proyecto me he ayudado de varios tutoriales de Youtube, entre otros:
 //https://www.youtube.com/watch?v=zeYvpRo-VRQ
 //Obviamente no me ha quedado igual, porque hay cosas que
 //no entendía del video y recursos que ofrecía a los que no pude acceder
